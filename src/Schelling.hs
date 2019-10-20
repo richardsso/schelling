@@ -1,4 +1,4 @@
--- 20027038 scyrs1 RICHARD SUGIANTO SO
+-- Author: RICHARD SUGIANTO SO
 module Schelling
   ( Coord
   , AgentType (..)

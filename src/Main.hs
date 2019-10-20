@@ -1,3 +1,4 @@
+-- Author: JONATHAN THALER
 module Main where
 
 -- needed for printing the number of steps
